@@ -67,7 +67,7 @@
    - Client side caching
    - Security (Phear the dreaded GraphQL Injection)
  - Notable browser / Node.js libraries     
-   - <img src="/img/urql-logo.png" alt="Urql" style="max-height:150px; display:inline-block;float:right;" /> <a href="https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/">Relay Modern</a>
+   - <img src="./img/urql-logo.png" alt="Urql" style="max-height:150px; display:inline-block;float:right;" /> <a href="https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/">Relay Modern</a>
    - <a href="https://www.apollographql.com">Apollo</a>
    - <a href="https://github.com/FormidableLabs/urql">Urql</a>
 
