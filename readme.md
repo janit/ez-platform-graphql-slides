@@ -117,11 +117,11 @@
 - eZ Platform specific example
 ```
 {
-  locationChildren(id: 2) {
-    content {
-      name
+    locationChildren(id: 2) {
+      content {
+        name
+      }
     }
-  }
 }
 ```
 - Gets location children's name property for location 2
